@@ -1,0 +1,7 @@
+Example,sky,AirTemp,Humidity,Wind,Water,Forecast,EnjoySport
+1,Sunny,Warm,Normal,Strong,Warm,Same,Yes
+2,Sunny,Warm,High,Strong,Warm,Same,Yes
+3,Rainy,Cold,High,Strong,Warm,Change,No
+4,Sunny,Warm,High,Strong,Cool,Change,Yes
+5,Bunny,Warm,Low,Strong,Cool,Same,Yes
+6,Sunny,Cold,Normal,Weak,Warm,Change,Yes
